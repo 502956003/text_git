@@ -8,3 +8,4 @@ var b = 20;
 console.log(a + b)
 var c = 20;
 console.log(a + c)
+var d = 100;
